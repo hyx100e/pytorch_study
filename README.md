@@ -7,3 +7,7 @@ pytorch搭建CNN
 pytorch搭建RNN
 
 pytorch搭建Transformer
+
+pytorch使用bert
+
+
